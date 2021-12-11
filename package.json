@@ -1,0 +1,23 @@
+{
+  "name": "string-from-callback",
+  "version": "1.0.1",
+  "description": "get string from callback",
+  "main": "string-from-callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "callback"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/string-from-callback.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/string-from-callback/issues"
+  },
+  "homepage": "https://github.com/adf0001/string-from-callback#readme"
+}
